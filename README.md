@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 - Inst - https://www.instagram.com/igorascatryan/
 - Fb - https://www.facebook.com/igorastsatryan/
+- Lin - https://www.linkedin.com/in/igor-astsatryan-a86663239/
 
 <!---
 igoriosdeveloper/igoriosdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
